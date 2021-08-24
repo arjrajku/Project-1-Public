@@ -16,8 +16,8 @@
 - `raw_data`: Contains raw data files from TLC for Yellow Taxis in 2020. Also contains the taxi zone lookup table and taxi_zones zip file, along with unzipped contents.
 - `preprocessed_data`: Contains feather files that are saved as an output from a function contained in the Preprocessing Notebook. 
 - `plots`: Contains plots generated in Exploratory Data Analysis Notebook.
-- `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
-    - Download Script from ADS Tutorial 1. For downloading raw csv data from TLC website
+- `code`: All notebooks and scripts are kept in this folder:
+    - Download Script from ADS Tutorial 1. For downloading raw csv data from TLC website. Data downloaded was January - April of 2020 for Yellow Taxis.
     - Preprocessing for preprocessing 
     - Exploratory Data Analysis for Analysis and Visualisation.
     - Statistical Modelling for Statistical Modelling.
